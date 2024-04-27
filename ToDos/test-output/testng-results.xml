@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-27T15:12:57 SGT" name="Default suite" finished-at="2024-04-27T15:14:17 SGT" duration-ms="80716">
+    <groups>
+    </groups>
+    <test started-at="2024-04-27T15:12:57 SGT" name="Default test" finished-at="2024-04-27T15:14:17 SGT" duration-ms="80716">
+      <class name="Test.ToDos.AppTest">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:12:57 SGT" name="OpenBrowser" finished-at="2024-04-27T15:13:05 SGT" duration-ms="8195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="AddToDos()[pri:1, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:13:05 SGT" name="AddToDos" finished-at="2024-04-27T15:13:12 SGT" duration-ms="6972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToDos -->
+        <test-method signature="MarkComplete()[pri:2, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:13:12 SGT" name="MarkComplete" finished-at="2024-04-27T15:13:26 SGT" duration-ms="14022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MarkComplete -->
+        <test-method signature="DisplayStatus()[pri:3, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:13:26 SGT" name="DisplayStatus" finished-at="2024-04-27T15:13:54 SGT" duration-ms="27937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayStatus -->
+        <test-method signature="EditToDo()[pri:4, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:13:54 SGT" name="EditToDo" finished-at="2024-04-27T15:14:02 SGT" duration-ms="7819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditToDo -->
+        <test-method signature="ClearCompleted()[pri:5, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:14:02 SGT" name="ClearCompleted" finished-at="2024-04-27T15:14:07 SGT" duration-ms="5347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearCompleted -->
+        <test-method signature="MarkAllToDos()[pri:6, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:14:07 SGT" name="MarkAllToDos" finished-at="2024-04-27T15:14:08 SGT" duration-ms="1349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MarkAllToDos -->
+        <test-method signature="ClearAllToDos()[pri:7, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:14:08 SGT" name="ClearAllToDos" finished-at="2024-04-27T15:14:17 SGT" duration-ms="8767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearAllToDos -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:Test.ToDos.AppTest@4c12331b]" started-at="2024-04-27T15:14:17 SGT" name="Close" finished-at="2024-04-27T15:14:17 SGT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- Test.ToDos.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
